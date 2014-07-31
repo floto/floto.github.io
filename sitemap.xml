@@ -4,17 +4,24 @@
   
   
   <url>
-    <loc>http://floto.github.io/</loc>
-    <lastmod>2014-07-30T22:15:13+02:00</lastmod>
+    <loc>http://floto.github.io/blog/archives/</loc>
+    <lastmod>2014-07-31T22:49:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://floto.github.io/blog/archives/</loc>
-    <lastmod>2014-07-30T22:15:13+02:00</lastmod>
+    <loc>http://floto.github.io/blog/</loc>
+    <lastmod>2014-07-31T22:49:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://floto.github.io/</loc>
+    <lastmod>2014-07-31T22:49:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
   
   
